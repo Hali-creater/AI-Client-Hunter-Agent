@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+leads.csv
+leads.json
+*.log
